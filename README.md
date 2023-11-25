@@ -1,19 +1,22 @@
-### Desenvolvedor Web 
+###### <h1>Desenvolvedor Web</h1>
 
-<div style="display: inline_block"></br>
-	<img align="center" alt="Cezar-CSharp" height="30" width="40" src="">
-	<img align="center" alt="Cezar-CSharp" height="30" width="40" src="">
-	<img align="center" alt="Cezar-CSharp" height="30" width="40" src="">
-	<img align="center" alt="Cezar-CSharp" height="30" width="40" src="">
-	<img align="center" alt="Cezar-CSharp" height="30" width="40" src="">
-	<img align="center" alt="Cezar-CSharp" height="30" width="40" src="">
-	<img align="center" alt="Cezar-CSharp" height="30" width="40" src="">
-	<img align="center" alt="Cezar-CSharp" height="30" width="40" src="">
-	<img align="center" alt="Cezar-CSharp" height="30" width="40" src="">
+</br>
+
+<div style="display: inline_block">
+	<img align="center" alt="Cezar-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+	<img align="center" alt="Cezar-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+	<img align="center" alt="Cezar-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+        <img align="center" alt="Cezar-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+        <img align="center" alt="Cezar-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+        <img align="center" alt="Cezar-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> </br></br>
+        <img align="center" alt="Cezar-.NetCore" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+        <img align="center" alt="Cezar-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+        <img align="center" alt="Cezar-SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+        <img align="center" alt="Cezar-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+        <img align="center" alt="Cezar-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </div>
 
 </br>
 
-<a href="www.linkedin.com/in/cézar-dias-martins-5b450b260">
-	<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Fvetores-premium%2Flogotipo-linkedin_578229-227.jpg&tbnid=FbVGtdwiCo-					ErM&vet=12ahUKEwiXpMmgnuCCAxVts5UCHeKUCBsQMygAegQIARBG..i&imgrefurl=https%3A%2F%2Fbr.freepik.com%2Fvetores-premium%2Flogotipo-								linkedin_28997508.htm&docid=3rbyGKrgrxEoXM&w=626&h=626&q=img%20linkedin&ved=2ahUKEwiXpMmgnuCCAxVts5UCHeKUCBsQMygAegQIARBG">
-</a>
+## <a href="www.linkedin.com/in/cézar-dias-martins-5b450b260"></a>
+<img align="center" alt="Cezar-LinkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
