@@ -18,5 +18,5 @@
 
 </br>
 
-## <a href="www.linkedin.com/in/cézar-dias-martins-5b450b260"></a>
-<img align="center" alt="Cezar-LinkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+## <a href="www.linkedin.com/in/cézar-dias-martins-5b450b260" target="_blank"><img alt="Cezar-LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+
