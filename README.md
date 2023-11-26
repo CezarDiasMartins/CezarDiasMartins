@@ -19,7 +19,7 @@
 </br>
 
 <div>
-	<a href="www.linkedin.com/in/cézar-dias-martins-5b450b260" target="_blank">
-		<img alt="Cezar-LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
+	<a target="_blank" href="www.linkedin.com/in/cézar-dias-martins-5b450b260">
+		<img target="_blank" alt="Cezar-LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 	</a>
 </div>
