@@ -23,5 +23,10 @@
 		<img target="blank" alt="Cezar-LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 	</a>
 </div>
+<div>
+	<a target="_blank" href="javascript:window.open(encodeURI('https://www.linkedin.com/in/cézar-dias-martins-5b450b260'));">
+		<img alt="Cezar-LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+	</a>
+</div>
 
 
