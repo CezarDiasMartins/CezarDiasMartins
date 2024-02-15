@@ -26,4 +26,5 @@
 	<a target="_blank" href="https://www.linkedin.com/in/cézar-dias-martins-5b450b260">
 		<img target="blank" alt="Cezar-LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 	</a>
+	<a target="_blank" href="https://cezardiasmartins.netlify.app">Portfolio</a>
 </div>
