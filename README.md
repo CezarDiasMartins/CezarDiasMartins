@@ -28,5 +28,5 @@
 		<img align="center" alt="LinkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 	</a>
 	</br>
-	<h3><a target="_blank" href="https://cezardiasmartins.netlify.app">Portfólio</a></h3>
+	<h3><a target="_blank" href="https://portfiolio-cezar.netlify.app">Portfólio</a></h3>
 </div>
