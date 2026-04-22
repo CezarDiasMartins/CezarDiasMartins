@@ -2,10 +2,12 @@
 
 </br>
 
-<div style="display: flex; flex-direction: row;">
+<div style="display: inline-block;">
 	<img align="center" alt="CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 	<img align="center" alt=".NetCore" height="30" width="40" src="https://icongr.am/devicon/dot-net-original.svg?size=128&color=currentColor" />
 </div>
+<br>
+    <br>
 
 <div style="display: flex">
 	<img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
