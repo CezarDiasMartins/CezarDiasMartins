@@ -2,7 +2,7 @@
 
 </br>
 
-<div style="display: flex">
+<div style="display: flex;">
 	<img align="center" alt="CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 	<img align="center" alt=".NetCore" height="30" width="40" src="https://icongr.am/devicon/dot-net-original.svg?size=128&color=currentColor" />
 </div>
