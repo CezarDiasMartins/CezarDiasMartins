@@ -4,10 +4,10 @@
 
 <div style="display: flex;">
 	<div style="display: flex;">
-		<img style="width:40; max-width: 40px;" alt="CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+		<img style="display: flex;" alt="CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 	</div>
 	<div style="display: flex;">
-		<img style="width:40; max-width: 40px;"  alt=".NetCore" height="30" width="40" src="https://icongr.am/devicon/dot-net-original.svg?size=128&color=currentColor" />
+		<img style="display: flex;" alt=".NetCore" height="30" width="40" src="https://icongr.am/devicon/dot-net-original.svg?size=128&color=currentColor" />
 	</div>
     
 <img style="width:40; max-width: 40px;"  alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
