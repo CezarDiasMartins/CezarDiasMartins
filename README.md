@@ -1,7 +1,10 @@
+<style>
+	a {
+		width: 40px;
+	}
+</style>
 <h2>Desenvolvedor Web - Full Stack</h2>
-
 </br>
-
 <div>
 	<img style="display: flex; flex-wrap: wrap;" alt="CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 	<img style="display: flex; flex-wrap: wrap;" alt=".NetCore" height="30" width="40" src="https://icongr.am/devicon/dot-net-original.svg?size=128&color=currentColor" />
@@ -11,11 +14,11 @@
 	<img alt="JQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" />
 	<img alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 	<img alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-	<div style="box-sizing: border-box;">
-		<div style="box-sizing: border-box;">
+	<div style="box-sizing: border-box; display: flex;">
+		<div style="box-sizing: border-box; display: flex;"">
 			<img style="box-sizing: border-box;width: 40px; height: 30px;" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 		</div>
-		<div style="box-sizing: border-box;">
+		<div style="box-sizing: border-box; display: flex;"">
 			<img style="box-sizing: border-box;width: 40px; height: 30px;" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 		</div>
 	</div>
