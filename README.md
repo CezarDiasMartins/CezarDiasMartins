@@ -3,10 +3,10 @@
 </br>
 
 <div>
-	<div style="display: block;">
+	<div style="display: inline-block;">
 		<img style="width:40; max-width: 40px;" alt="CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 	</div>
-	<div style="display: block;">
+	<div style="display: inline-block;">
 		<img style="width:40; max-width: 40px;"  alt=".NetCore" height="30" width="40" src="https://icongr.am/devicon/dot-net-original.svg?size=128&color=currentColor" />
 	</div>
     
