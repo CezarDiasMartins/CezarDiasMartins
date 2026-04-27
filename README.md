@@ -1,9 +1,3 @@
-<style>
-	a {
-		width: 40px;
-	}
-</style>
-
 <h2>Desenvolvedor Web - Full Stack</h2>
 
 </br>
