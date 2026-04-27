@@ -2,7 +2,7 @@
 
 </br>
 
-<div style="display: flex; margin-bottom: 10px;">
+<div>
 	<div style="width:40; max-width: 40px;" >
 		<img style="width:40; max-width: 40px;" alt="CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 	</div>
