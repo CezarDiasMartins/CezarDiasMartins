@@ -3,9 +3,9 @@
 </br>
 
 <p>
-	<span><img style="display: inline;" alt="CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></span>
-	<span><img style="display: inline;" alt=".NetCore" height="30" width="40" src="https://icongr.am/devicon/dot-net-original.svg?size=128&color=currentColor" /></span>
-	<span><img style="display: inline;" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" /></span>
+	<span><img style="display: inline-block;" alt="CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></span>
+	<span><img style="display: inline-block;" alt=".NetCore" height="30" width="40" src="https://icongr.am/devicon/dot-net-original.svg?size=128&color=currentColor" /></span>
+	<span><img style="display: inline-block;" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" /></span>
 	<img alt="TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 	<img alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 	<img alt="JQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" />
