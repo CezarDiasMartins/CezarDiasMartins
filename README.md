@@ -2,7 +2,7 @@
 
 </br>
 
-<div style="display: flex">
+<div style="display: grid; grid-template-rows: 1fr;grid-template-columns: 1fr;">
 	<img alt="CSharp" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/7838/7838138.png" />
 	<img alt="CSharp" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/7838/7838138.png" />
 	<img alt="CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
