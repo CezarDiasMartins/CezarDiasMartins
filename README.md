@@ -3,8 +3,10 @@
 </br>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
-	<img alt="CSharp" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/7838/7838138.png" />
-	<img alt="CSharp" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/7838/7838138.png" />
+	<div>
+		<img alt="CSharp" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/7838/7838138.png" />
+		<img alt="CSharp" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/7838/7838138.png" />
+	</div>
 	<img alt="CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 	<img alt=".NetCore" height="30" width="40" src="https://icongr.am/devicon/dot-net-original.svg?size=128&color=currentColor" />
 	<img alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
