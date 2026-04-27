@@ -15,9 +15,7 @@
 	<img alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 </div>
 
-<div>
-	<a target="_blank" href="https://www.linkedin.com/in/cezar-dias-martins">
-		<img align="center" alt="LinkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
-	</a>
-	<h3><a target="_blank" href="https://portfolio-cezar.netlify.app">Portfólio</a></h3>
-</div>
+<a target="_blank" href="https://www.linkedin.com/in/cezar-dias-martins">
+	<img align="center" alt="LinkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+</a>
+<h3><a target="_blank" href="https://portfolio-cezar.netlify.app">Portfólio</a></h3>
