@@ -25,6 +25,6 @@
 </br>
 
 <a target="_blank" href="https://www.linkedin.com/in/cezar-dias-martins">
-	<img align="center" alt="LinkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40"/>
 </a>
 <h3><a target="_blank" href="https://portfolio-cezar.netlify.app">Portfólio</a></h3>
