@@ -10,6 +10,16 @@
 	<img src="https://icongr.am/devicon/dot-net-original.svg?size=128&color=currentColor" alt=".NetCore" height="40"/>
 <div>
 
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="CSharp" height="40"/></p>
+<p><img src="https://icongr.am/devicon/dot-net-original.svg?size=128&color=currentColor" alt=".NetCore" height="40"/></p>
+
+<div>
+	<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="CSharp" height="40"/></p>
+	<p><img src="https://icongr.am/devicon/dot-net-original.svg?size=128&color=currentColor" alt=".NetCore" height="40"/></p>
+<div>
+
+--------
+
 <p align="left">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="CSharp" height="40"/>
 	<img src="https://icongr.am/devicon/dot-net-original.svg?size=128&color=currentColor" alt=".NetCore" height="40"/>
