@@ -2,8 +2,8 @@
 
 </br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="CSharp" height="40"/>
-<img src="https://icongr.am/devicon/dot-net-original.svg?size=128&color=currentColor" alt=".NetCore" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="CSharp" height="40" width="40"/>
+<img src="https://icongr.am/devicon/dot-net-original.svg?size=128&color=currentColor" alt=".NetCore" height="40" width="40"/>
 
 <div>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="CSharp" height="40"/>
