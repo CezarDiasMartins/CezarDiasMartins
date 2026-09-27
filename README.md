@@ -4,7 +4,7 @@
 
 <p align="left">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="CSharp" height="40"/>
-	<img src="https://icongr.am/devicon/dot-net-original.svg?size=128&color=currentColor" alt=".NetCore" height="40"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" alt=".Net" height="40"/>
 	</br>
 	</br>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" height="40"/>
